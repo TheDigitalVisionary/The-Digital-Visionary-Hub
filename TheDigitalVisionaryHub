@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Digital Visionary</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        .cover {
+            background: url('https://source.unsplash.com/1600x900/?blue-sky') no-repeat center center;
+            background-size: cover;
+            height: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .logo {
+            width: 200px;
+        }
+        .content {
+            padding: 20px;
+            background: white;
+            margin: -50px auto 20px;
+            width: 80%;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="cover">
+        <img src="Untitled design.png" alt="The Digital Visionary Logo" class="logo">
+    </div>
+    <div class="content">
+        <h1>Welcome to The Digital Visionary</h1>
+        <p>Your virtual assistant platform for creativity.</p>
+        <a href="https://www.facebook.com/profile.php?id=61573989103428" target="_blank">Visit our Facebook</a>
+    </div>
+</body>
+</html>
